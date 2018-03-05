@@ -1,0 +1,11 @@
+S:\C-18-01\Module02\OOPControl\OOPControl\bin\Debug\OOPControl.exe
+S:\C-18-01\Module02\OOPControl\OOPControl\bin\Debug\OOPControl.pdb
+S:\C-18-01\Module02\OOPControl\OOPControl\obj\Debug\OOPControl.csprojResolveAssemblyReference.cache
+S:\C-18-01\Module02\OOPControl\OOPControl\obj\Debug\OOPControl.exe
+S:\C-18-01\Module02\OOPControl\OOPControl\obj\Debug\OOPControl.pdb
+C:\Users\Rolling Solo\source\repos\IT Cloud\OOPControl\OOPControl\bin\Debug\OOPControl.exe
+C:\Users\Rolling Solo\source\repos\IT Cloud\OOPControl\OOPControl\bin\Debug\OOPControl.pdb
+C:\Users\Rolling Solo\source\repos\IT Cloud\OOPControl\OOPControl\obj\Debug\OOPControl.csprojResolveAssemblyReference.cache
+C:\Users\Rolling Solo\source\repos\IT Cloud\OOPControl\OOPControl\obj\Debug\OOPControl.csproj.CoreCompileInputs.cache
+C:\Users\Rolling Solo\source\repos\IT Cloud\OOPControl\OOPControl\obj\Debug\OOPControl.exe
+C:\Users\Rolling Solo\source\repos\IT Cloud\OOPControl\OOPControl\obj\Debug\OOPControl.pdb
